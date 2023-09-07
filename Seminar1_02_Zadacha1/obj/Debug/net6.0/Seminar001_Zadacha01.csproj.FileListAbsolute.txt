@@ -1,0 +1,15 @@
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\bin\Debug\net6.0\Seminar001_Zadacha01.exe
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\bin\Debug\net6.0\Seminar001_Zadacha01.deps.json
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\bin\Debug\net6.0\Seminar001_Zadacha01.runtimeconfig.json
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\bin\Debug\net6.0\Seminar001_Zadacha01.dll
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\bin\Debug\net6.0\Seminar001_Zadacha01.pdb
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\obj\Debug\net6.0\Seminar001_Zadacha01.csproj.AssemblyReference.cache
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\obj\Debug\net6.0\Seminar001_Zadacha01.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\obj\Debug\net6.0\Seminar001_Zadacha01.AssemblyInfoInputs.cache
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\obj\Debug\net6.0\Seminar001_Zadacha01.AssemblyInfo.cs
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\obj\Debug\net6.0\Seminar001_Zadacha01.csproj.CoreCompileInputs.cache
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\obj\Debug\net6.0\Seminar001_Zadacha01.dll
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\obj\Debug\net6.0\refint\Seminar001_Zadacha01.dll
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\obj\Debug\net6.0\Seminar001_Zadacha01.pdb
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\obj\Debug\net6.0\Seminar001_Zadacha01.genruntimeconfig.cache
+F:\GeekBrains\lesson_2\Seminar001_Zadacha01\obj\Debug\net6.0\ref\Seminar001_Zadacha01.dll

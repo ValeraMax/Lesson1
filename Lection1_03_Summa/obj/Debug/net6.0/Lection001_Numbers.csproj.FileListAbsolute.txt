@@ -1,0 +1,15 @@
+F:\GeekBrains\lesson_2\Lection001_Numbers\bin\Debug\net6.0\Lection001_Numbers.exe
+F:\GeekBrains\lesson_2\Lection001_Numbers\bin\Debug\net6.0\Lection001_Numbers.deps.json
+F:\GeekBrains\lesson_2\Lection001_Numbers\bin\Debug\net6.0\Lection001_Numbers.runtimeconfig.json
+F:\GeekBrains\lesson_2\Lection001_Numbers\bin\Debug\net6.0\Lection001_Numbers.dll
+F:\GeekBrains\lesson_2\Lection001_Numbers\bin\Debug\net6.0\Lection001_Numbers.pdb
+F:\GeekBrains\lesson_2\Lection001_Numbers\obj\Debug\net6.0\Lection001_Numbers.csproj.AssemblyReference.cache
+F:\GeekBrains\lesson_2\Lection001_Numbers\obj\Debug\net6.0\Lection001_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\lesson_2\Lection001_Numbers\obj\Debug\net6.0\Lection001_Numbers.AssemblyInfoInputs.cache
+F:\GeekBrains\lesson_2\Lection001_Numbers\obj\Debug\net6.0\Lection001_Numbers.AssemblyInfo.cs
+F:\GeekBrains\lesson_2\Lection001_Numbers\obj\Debug\net6.0\Lection001_Numbers.csproj.CoreCompileInputs.cache
+F:\GeekBrains\lesson_2\Lection001_Numbers\obj\Debug\net6.0\Lection001_Numbers.dll
+F:\GeekBrains\lesson_2\Lection001_Numbers\obj\Debug\net6.0\refint\Lection001_Numbers.dll
+F:\GeekBrains\lesson_2\Lection001_Numbers\obj\Debug\net6.0\Lection001_Numbers.pdb
+F:\GeekBrains\lesson_2\Lection001_Numbers\obj\Debug\net6.0\Lection001_Numbers.genruntimeconfig.cache
+F:\GeekBrains\lesson_2\Lection001_Numbers\obj\Debug\net6.0\ref\Lection001_Numbers.dll
